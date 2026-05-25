@@ -1,4 +1,12 @@
 # Steam-Vent
+OG:
+https://codeberg.org/steam-vent/steam-vent
+https://codeberg.org/steam-vent/steam-vent
+https://codeberg.org/steam-vent/steam-vent
+https://codeberg.org/steam-vent/steam-vent
+https://codeberg.org/steam-vent/steam-vent
+https://codeberg.org/steam-vent/steam-vent
+
 
 ### Interact with the Steam network via rust
 
@@ -92,10 +100,4 @@ This is in large parts inspired by and based of
 [SteamUser](https://github.com/DoctorMcKay/node-steam-user/), massive credits go
 to all who worked on that.
 
-OG:
-https://codeberg.org/steam-vent/steam-vent
-https://codeberg.org/steam-vent/steam-vent
-https://codeberg.org/steam-vent/steam-vent
-https://codeberg.org/steam-vent/steam-vent
-https://codeberg.org/steam-vent/steam-vent
-https://codeberg.org/steam-vent/steam-vent
+
